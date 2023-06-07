@@ -9,6 +9,9 @@ Finally, complex SQL queries, their dplyr equivalents, and visualisations are pr
 The datasets are located at:
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
 https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
+
 
 The presented work utilises the RSQLite package and produces a well-knitted PDF file as an output.
