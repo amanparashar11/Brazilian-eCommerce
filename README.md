@@ -7,6 +7,7 @@ The later half identifies the issues with records and normalise the schema, illu
 Finally, complex SQL queries, their dplyr equivalents, and visualisations are provided to answer critical business questions.
 
 The datasets are located at:
+
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
 
